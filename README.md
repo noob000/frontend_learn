@@ -3,7 +3,7 @@
 
 # 如何提交代码
 
-1. 克隆仓库：git clone ;
+1. 克隆仓库：git clone https://github.com/617976080/frontend_learn;
 2. 建立分支：git checkout -b xxxx
 3. 每个目录下都有lessons和tasks目录， 在tasks目录下建立自己名字的文件夹，然后把lessons的作业都放在里面。
 4. 保存修改：git add . 
